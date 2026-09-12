@@ -27,6 +27,6 @@ Every writeup generally follows a structured penetration testing methodology:
 
 | Room Name | Difficulty | Category | Key Techniques |
 | :--- | :--- | :--- | :--- |
-| *LLMborghini* | Easy | AI Security | Prompt Injection  |
+| *[LLMborghini](https://tryhackme.com/room/llmborghini)* | Easy | AI Security | Prompt Injection  |
 
 *(Note: These writeups are intended for educational purposes, portfolio building, and to document my personal cybersecurity learning journey. Please attempt the rooms on TryHackMe yourself before consulting these solutions!)*
