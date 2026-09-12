@@ -27,7 +27,6 @@ Every writeup generally follows a structured penetration testing methodology:
 
 | Room Name | Difficulty | Category | Key Techniques |
 | :--- | :--- | :--- | :--- |
-| *Example Room* | Easy | Web / Linux | SQLi, SUID Enumeration |
-| *Example Room 2* | Medium | Active Directory | Kerberoasting, BloodHound |
+| *LLMborghini* | Easy | AI Security | Prompt Injection  |
 
 *(Note: These writeups are intended for educational purposes, portfolio building, and to document my personal cybersecurity learning journey. Please attempt the rooms on TryHackMe yourself before consulting these solutions!)*
