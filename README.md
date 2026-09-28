@@ -30,6 +30,7 @@ Every writeup generally follows a structured penetration testing methodology:
 | *[LLMborghini](https://tryhackme.com/room/llmborghini)* | Easy | AI Security | Prompt Injection  |
 | *[White Rabbit](https://tryhackme.com/room/whiterabbit)* | Medium | AI Security | Prompt Injection  |
 | *[Payload](https://tryhackme.com/room/payload)* | Easy | AI Security | Supply Chain Security  |
+| *[Checkpoint](https://tryhackme.com/room/checkpoint)* | Easy | Model Review | Production Review  |
 
 
 
