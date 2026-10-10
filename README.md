@@ -31,8 +31,8 @@ Every writeup generally follows a structured penetration testing methodology:
 | *[White Rabbit](https://tryhackme.com/room/whiterabbit)* | Medium | AI Security | Prompt Injection  |
 | *[Payload](https://tryhackme.com/room/payload)* | Easy | AI Security | Supply Chain Security  |
 | *[Checkpoint](https://tryhackme.com/room/checkpoint)* | Easy | Model Review | Production Review  |
-| *[Checkpoint](https://tryhackme.com/room/unindexedchallenge)* | Medium | Model Review | Data Exposure  |
-| *[Checkpoint](https://tryhackme.com/room/checkpoint)* | Medium | Vulnerability Audit | Security Assessment  |
+| *[Unindexed](https://tryhackme.com/room/unindexedchallenge)* | Medium | Model Review | Data Exposure  |
+| *[Lockdown](https://tryhackme.com/room/lockdownai)* | Medium | Vulnerability Audit | Security Assessment  |
 
 
 
