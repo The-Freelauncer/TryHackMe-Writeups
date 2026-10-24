@@ -1,0 +1,1 @@
+https://medium.com/@codename-riley/the-14-year-old-phantom-in-the-engine-how-i-cracked-php2shell-on-tryhackme-c456f60697f8https://medium.com/@codename-riley/the-14-year-old-phantom-in-the-engine-how-i-cracked-php2shell-on-tryhackme-c456f60697f8https://medium.com/@codename-riley/the-14-year-old-phantom-in-the-engine-how-i-cracked-php2shell-on-tryhackme-c456f60697f8
