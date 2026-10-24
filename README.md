@@ -33,7 +33,7 @@ Every writeup generally follows a structured penetration testing methodology:
 | *[Checkpoint](https://tryhackme.com/room/checkpoint)* | Easy | Model Review | Production Review  |
 | *[Unindexed](https://tryhackme.com/room/unindexedchallenge)* | Medium | Model Review | Data Exposure  |
 | *[Lockdown](https://tryhackme.com/room/lockdownai)* | Medium | Vulnerability Audit | Security Assessment  |
-
+| *[PHP2SHELL](https://tryhackme.com/room/cvephp2shell)* | Easy | Memory Leak | Unauthenticated RCE |
 
 
 *(Note: These writeups are intended for educational purposes, portfolio building, and to document my personal cybersecurity learning journey. Please attempt the rooms on TryHackMe yourself before consulting these solutions!)*
